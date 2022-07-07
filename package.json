@@ -12,7 +12,7 @@
     "bootstrap-vue": "^2.14.0",
     "core-js": "^3.6.4",
     "jquery": "^3.5.1",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "sweetalert2": "^9.15.1",
     "vue": "^2.6.11",
     "vue-cal": "^3.5.1",
